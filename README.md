@@ -30,5 +30,3 @@ Gemini Clone is a web-based AI chatbot powered by the Google Gemini API. Built w
 
 Stay tuned for updates and improvements! 🎉  
 
----  
-Would you like me to add installation steps or usage instructions? 🚀
